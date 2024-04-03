@@ -12,3 +12,5 @@ As linguagens utilizadas foram:
 O Tailwind CSS possibilitou a criação de um site responsivo para diferentes dispositivos, além de reduzir significativamente o número de linhas de código.
 
 Este projeto foi realizado em colaboração com o canal do YouTube 'Sujeito Programador'.
+
+Link para o projeto: [https://pxdrof.github.io/menu-web/]
