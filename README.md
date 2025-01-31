@@ -12,4 +12,4 @@ O Tailwind CSS possibilitou a criação de um site responsivo para diferentes di
 
 Este projeto foi realizado em colaboração com o canal do YouTube 'Sujeito Programador'.
 
-Link para o projeto: https://pxdrof.github.io/menu-web/
+Link para o projeto: [https://pxdrof.github.io/menu-web/](https://pedro-vaf.github.io/menu-web/)
